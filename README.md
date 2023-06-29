@@ -1,3 +1,4 @@
 # git_test
 oefenen met git (odin)
-Hello Odin!
+Hello Odin! 
+Ik ben Mees van de Bor
