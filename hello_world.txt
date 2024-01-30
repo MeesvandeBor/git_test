@@ -1,2 +1,3 @@
 Hi, just texting git!
 Seeing if the terminal in vscode works  
+and the commit message
