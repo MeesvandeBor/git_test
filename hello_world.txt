@@ -1,1 +1,2 @@
 Hi, just texting git!
+Seeing if the terminal in vscode works  
